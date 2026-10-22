@@ -3,7 +3,7 @@
 - 問題リンク：https://atcoder.jp/contests/abc479/tasks/abc479_b
 - 言語：Java
 - コード：[Main.java](Main.java)
-- AtCoderでの判定：未確認（提出URL未提供）
+- AtCoderでの判定：AC済み（本人確認）
 
 ## コードの処理メモ
 
