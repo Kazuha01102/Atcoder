@@ -11,6 +11,7 @@ AtCoderユーザー：Kazuha01102
 | [ABC472 A - A](https://atcoder.jp/contests/abc472/tasks/abc472_a) | [Main.java](abc472/a/Main.java) | 提出画像でAC確認 |
 | [ABC473 A - Second Half Sum](https://atcoder.jp/contests/abc473/tasks/abc473_a) | [Main.java](abc473/a/Main.java) | 提出画像でAC確認 |
 | [ABC474 A - Not X](https://atcoder.jp/contests/abc474/tasks/abc474_a) | [Main.java](abc474/a/Main.java) | 提出画像でAC確認（提出79015047） |
+| [ABC475 B](https://atcoder.jp/contests/abc475/tasks/abc475_b) | [Main.java](abc475/b/Main.java) | 本人提供コード。判定未確認 |
 | [ABC479 B](https://atcoder.jp/contests/abc479/tasks/abc479_b) | [Main.java](abc479/b/Main.java) | 本人提供コード。判定未確認 |
 | 問題番号未確認：同じ値のカードをペアで0にして合計するコード | [Main.java](unclassified/card-pairs/Main.java) | 本人提供コード。判定未確認 |
 
