@@ -15,6 +15,7 @@ AtCoderユーザー：Kazuha01102
 | [ABC476 A - Appender](https://atcoder.jp/contests/abc476/tasks/abc476_a) | [Main.java](abc476/a/Main.java) | AC済み（提出画像で確認） |
 | [ABC476 B - Wild Card](https://atcoder.jp/contests/abc476/tasks/abc476_b) | [Main.java](abc476/b/Main.java) | AC済み（本人確認） |
 | [ABC476 C - Third Largest Number](https://atcoder.jp/contests/abc476/tasks/abc476_c) | [Main.java](abc476/c/Main.java) | AC済み（本人確認） |
+| [ABC477 A - Traffic Light](https://atcoder.jp/contests/abc477/tasks/abc477_a) | [Main.java](abc477/a/Main.java) | AC済み（本人確認） |
 | [ABC479 B](https://atcoder.jp/contests/abc479/tasks/abc479_b) | [Main.java](abc479/b/Main.java) | AC済み（本人確認） |
 | 問題番号未確認：同じ値のカードをペアで0にして合計するコード | [Main.java](unclassified/card-pairs/Main.java) | AC済み（本人確認） |
 
