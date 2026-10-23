@@ -6,6 +6,8 @@ AtCoderユーザー：Kazuha01102
 
 | 問題 | コード | 確認状況 |
 | --- | --- | --- |
+| [ABC443 A - Append s](https://atcoder.jp/contests/abc443/tasks/abc443_a) | [Main.java](abc443/a/Main.java) | AC済み（提出画像で確認） |
+| [ABC443 B - Setsubun](https://atcoder.jp/contests/abc443/tasks/abc443_b) | [Main.java](abc443/b/Main.java) | AC済み（提出画像で確認） |
 | [ABC470 A - Fizz](https://atcoder.jp/contests/abc470/tasks/abc470_a) | [Main.java](abc470/a/Main.java) | AC済み（本人確認） |
 | [ABC471 A - Nine or Nein](https://atcoder.jp/contests/abc471/tasks/abc471_a) | [Main.java](abc471/a/Main.java) | 提出画像でAC確認 |
 | [ABC472 A - A](https://atcoder.jp/contests/abc472/tasks/abc472_a) | [Main.java](abc472/a/Main.java) | 提出画像でAC確認 |
